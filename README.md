@@ -9,7 +9,7 @@ device MacAddress could be retrieved for Android/iOS devices.
 
 `cordova plugin add https://github.com/eDialog-team/MacAddress.git`  
 
-or copy the MacAddressUtils.java class in your java app
+or copy the [MacAddressUtils.java](https://github.com/eDialog-team/MacAddress/blob/master/src/android/MacAddressUtils.java) class in your java app
 
 **Example Usage:**
 
