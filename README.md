@@ -13,6 +13,8 @@ or copy the [MacAddressUtils.java](https://github.com/eDialog-team/MacAddress/bl
 
 **Example Usage:**
 
+#### Cordova
+
 ```js
 window.MacAddress.getMacAddress(
     function(macAddress) {
@@ -23,7 +25,10 @@ window.MacAddress.getMacAddress(
     }
 );
 ```
-**As a Java helper class**
+
+#### As a Java helper class
+
+
 ```java
 
 import fr.dialog.macUtils.MacAddressUtils;
