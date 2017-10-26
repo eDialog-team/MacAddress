@@ -29,6 +29,6 @@ window.MacAddress.getMacAddress(
 import fr.dialog.macUtils.MacAddressUtils;
 
 String macAddress = MacAddressUtils.getMacAddress(
-  this.getApplication().getApplicationContext() // in some Activity
+  this.getBaseContext() // in some Activity
 );
 ```
