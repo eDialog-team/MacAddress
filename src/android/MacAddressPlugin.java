@@ -12,7 +12,7 @@ import fr.dialog.macUtils.MacAddressUtils;
 /**
  * The Class MacAddressPlugin.
  */
-public class Cordova extends CordovaPlugin {
+public class MacAddressPlugin extends CordovaPlugin {
 
   public boolean isSynch(String action) {
     if (action.equals("getMacAddress")) {
