@@ -17,7 +17,7 @@
   <!-- android -->
   <platform name="android">
     <config-file target="res/xml/config.xml" parent="/*">
-      <feature name="Cordova">
+      <feature name="MacAddressPlugin">
         <param name="android-package" value="fr.dialog.macUtils.Cordova"/>
       </feature>
     </config-file>
