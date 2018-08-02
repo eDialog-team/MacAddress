@@ -25,7 +25,7 @@
       <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     </config-file>
 
-    <source-file src="src/android/Cordova.java" target-dir="src/fr/dialog/macUtils/" />
+    <source-file src="src/android/MacAddressPlugin.java" target-dir="src/fr/dialog/macUtils/" />
     <source-file src="src/android/MacAddressUtils.java" target-dir="src/fr/dialog/macUtils/" />
   </platform>
 
